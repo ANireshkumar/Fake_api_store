@@ -1,0 +1,9 @@
+
+Still now fechAPI concept was not thought for our batch, i have done this project with my knowledge.
+
+I have used html,tailwind, javascript to do this project. 
+
+This project will be functional and responsive.
+
+I have used the API link which was shared to us.
+
